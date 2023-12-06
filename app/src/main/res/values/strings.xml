@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dual Dice Roller</string>
+    <string name="dice_1">Dice 1</string>
+    <string name="dice_2">Dice 2</string>
+    <string name="roll_dice">Roll Dice!</string>
+    <string name="exit">exit</string>
+</resources>
